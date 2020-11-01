@@ -13,3 +13,11 @@ He dividido por carpetas la funcionalidades que he ido profundizando. A continua
     - Hook - useState
     - Props
     - Handle functions
+* 04-testing
+    - Test, toBe, toEqual
+    - Testeado string
+    - Testeado funciones
+    - Testeado array
+    - Testeado typeOf
+    - Testeado promesas
+    - Testeado async await;
