@@ -14,6 +14,7 @@ He dividido por carpetas la funcionalidades que he ido profundizando. A continua
     - Props
     - Handle functions
 * 04-testing
+    - Jest
     - Test, toBe, toEqual
     - Testeado string
     - Testeado funciones
