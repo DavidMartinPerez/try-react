@@ -26,3 +26,9 @@ He dividido por carpetas la funcionalidades que he ido profundizando. A continua
     - Testeo de componentes
     - enzyme, enzyme-adapter-react-16
     - enzyme-to-json
+* 05-gifExpertApp
+    - Componentes
+    - Hook
+    - Custom Hook
+    - useEffect
+    - Comunicación entre componentes

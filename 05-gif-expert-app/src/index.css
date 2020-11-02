@@ -1,0 +1,18 @@
+* {
+    font-family: Helvetica, Arial;
+}
+
+body {
+    padding: 30px;
+}
+
+input{
+    color: gray
+}
+
+.gifGrid__bloque > * {
+    padding-right: 10px;
+}
+.gifGrid__bloque > *:nth-last-child(1) {
+    padding: 0px;
+}
