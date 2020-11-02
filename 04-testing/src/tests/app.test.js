@@ -14,7 +14,7 @@ describe('Testeamos un componente', () => {
         const nameTest = 'Parker';
         const saludoTest = 'Spiderman es'
 
-        const wrapper = shallow( <App saludo={saludoTest} name={nameTest} /> );
+        const wrapper = shallow( <App saludo={saludoTest} nombre={nameTest} /> );
 
         const textTest = wrapper.find( 'h1' ).text();
 
