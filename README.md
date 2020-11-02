@@ -14,7 +14,7 @@ He dividido por carpetas la funcionalidades que he ido profundizando. A continua
     - Props
     - Handle functions
 * 04-testing
-    - Jest
+    - Jest, Enzyme
     - Test, toBe, toEqual
     - Testeado string
     - Testeado funciones
@@ -22,3 +22,6 @@ He dividido por carpetas la funcionalidades que he ido profundizando. A continua
     - Testeado typeOf
     - Testeado promesas
     - Testeado async await;
+    - Testeo de componentes
+    - enzyme, enzyme-adapter-react-16
+    - enzyme-to-json

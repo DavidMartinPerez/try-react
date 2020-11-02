@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 const App = ( { saludo, nombre } ) => {
 
 
-    return ( <h1> {saludo} { nombre } </h1> );
+    return ( <h1>{saludo} { nombre }</h1> );
 }
 
 //Validación de datos obligatorios
