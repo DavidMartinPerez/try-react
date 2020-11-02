@@ -16,7 +16,7 @@ describe('Testeamos un componente', () => {
 
         const wrapper = shallow( <App saludo={saludoTest} name={nameTest} /> );
 
-        const textTest = wrapper.find( 'h1' ).text;
+        const textTest = wrapper.find( 'h1' ).text();
 
         expect( textTest ).toBe( `${saludoTest} ${nameTest}` );
 
